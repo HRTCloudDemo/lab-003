@@ -1,0 +1,6 @@
+applications:
+  - name: sharp-wright
+    memory: 128M
+    host: sharp-wright
+    buildpack: staticfile_buildpack
+  
